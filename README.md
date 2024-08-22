@@ -42,4 +42,4 @@ While working on this project, I realized that I need to continue practicing ele
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vitordevlopes)
+- Frontend Mentor - [My Profile](https://www.frontendmentor.io/profile/vitordevlopes)
